@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dharaneesh K S</h1>
 
-<!--
-**Dharaneesh7299/Dharaneesh7299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Developer • Competitive Programmer • Software Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable applications and solving challenging DSA problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+-  B.Tech Information Technology
+- Solved 1000+ LeetCode Problems
+- National Hackathon Runner
+- CodeChef 3★
+- Currently learning  AWS & System Design
+
+---
+
+##  Connect with me
+
+<p align="left">
+
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/dharaneesh-k-s-334075328/)">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dharaneeshssd@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
