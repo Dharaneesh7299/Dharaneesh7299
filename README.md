@@ -50,41 +50,6 @@ Backend Developer • Competitive Programmer • Software Engineer
 
 ---
 
-#  About Me
-
-```cpp
-class Dharaneesh {
-
-public:
-
-    string education = "B.Tech Information Technology";
-
-    string college = "Chennai Institute of Technology";
-
-    string role = "Backend Developer";
-
-    vector<string> languages = {
-        "C++",
-        "Python",
-        "Java"
-    };
-
-    vector<string> interests = {
-        "Competitive Programming",
-        "Backend Development",
-        "System Design",
-        "Cloud Computing"
-    };
-
-    string currentFocus = "FastAPI + AWS + DSA";
-
-    string goal = "Software Development Engineer";
-
-};
-```
-
----
-
 ##  Quick Facts
 
 -  B.Tech Information Technology
@@ -100,33 +65,13 @@ public:
 ##  What I Love Working On
 
 ✔ Backend APIs
-
 ✔ Database Design
-
 ✔ Competitive Programming
-
 ✔ Cloud Technologies
-
 ✔ Problem Solving
-
 ✔ Distributed Systems
-
 ✔ Performance Optimization
-
 ✔ Clean Architecture
 
 ---
 
-## Reach Me
-
--  **Email:** dharaneeshssd@gmail.com
-
--  **LinkedIn:** https://www.linkedin.com/in/dharaneesh-k-s-334075328/
-
--  **GitHub:** https://github.com/Dharaneesh7299
-
--  **LeetCode:** https://leetcode.com/u/dharaneesh_selvaraj/
-
--  **CodeChef:** https://www.codechef.com/users/dharaneesh_ssd
-
----
