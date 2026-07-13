@@ -2,9 +2,7 @@
 <!--                     GITHUB PROFILE                    -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="./images/banner.png" alt="Banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Dharaneesh K S</h1>
 
