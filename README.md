@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharaneesh7299/Dharaneesh7299/main/images/banner.png" width="100%" alt="Banner">
+  <img src="./images/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Dharaneesh K S</h1>
