@@ -11,7 +11,7 @@ Backend Developer • Competitive Programmer • Software Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer;Competitive+Programmer;700%2B+LeetCode+Problems;Hackathon+Winner;FastAPI+%7C+React+%7C+AWS;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer;Competitive+Programmer;1000%2B+LeetCode+Problems;Hackathon+Winner;FastAPI+%7C+React+%7C+AWS;Always+Learning+New+Things" />
 </p>
 
 ---
